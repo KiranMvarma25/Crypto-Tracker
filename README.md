@@ -56,6 +56,8 @@ For now, crypto data is mocked within the Redux store and updated at regular int
 
 Video Demo: https://drive.google.com/file/d/1mJkDhy5C_Dy2XTINpgG9OyV7ZaWzYWUD/view?usp=sharing
 
+Live Link - https://cryptotracker-assignment.netlify.app/
+
 
 
 
