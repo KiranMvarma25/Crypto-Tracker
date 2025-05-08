@@ -54,7 +54,7 @@ Mocked Data:
 For now, crypto data is mocked within the Redux store and updated at regular intervals using setInterval.
 
 
-Video Demo: 
+Video Demo: https://drive.google.com/file/d/1mJkDhy5C_Dy2XTINpgG9OyV7ZaWzYWUD/view?usp=sharing
 
 
 
